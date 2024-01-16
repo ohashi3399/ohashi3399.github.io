@@ -1,1 +1,0 @@
-# ohashi3399.github.io
