@@ -6,12 +6,12 @@ layout: default
 
 ## 職歴
 
-- 2021年6月 - 現在     : 株式会社本田技術研究所 (スタッフエンジニア)
+- 2021年6月 - 現在     : 株式会社本田技術研究所 (2023年10月, スタッフエンジニアに昇進)
 - 2019年4月 - 2021年5月: 凸版印刷株式会社 (研究員)
 
 ## 学歴
 
-- 2017年4月 - 2019年3月: 博士前期課程修了, 千葉大学大学院 融合理工学府 創生工学専攻 イメージング科学コース
+- 2017年4月 - 2019年3月: 博士前期課程修了, 千葉大学大学院 融合理工学府 創生工学専攻
 - 2015年4月 - 2017年3月: 学士卒業, 工学部, 情報画像学科, 千葉大学
 - 2010年4月 - 2015年3月: 準学士卒業, 茨城工業高等専門学校
 
@@ -53,28 +53,28 @@ layout: default
   - https://github.com/ohashi3399/llm_chat_demo_gui
 
 ## ジャーナル
-- Hirokazu Doi, Norimichi Tsumura, Chieko Kanai, Kenta Masui, <u>**Ryota Mitsuhashi**</u>,Takumi Nagasawa, Automatic classification of adult males with and without autism spectrum disorder by non-contact measurement of autonomic nervous system activation, Frontiers in Psychiatry (2021)17 May 2021 https://doi.org/10.3389/fpsyt.2021.625978
-- Kaito Iuchi, <u>**Ryota Mitsuhashi**</u>, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Stress levels estimation from facial video based on non-contact measurement of pulse wave, Artificial Life and Robotics 25, pages335–342(2020)
-- Kaito Iuchi, <u>**Ryota Mitsuhashi**</u>, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Removing the influence of light onto the face from display in iPPG, Artificial Life and Robotics 25, pages377–382(2020).
-- Ikisawa Natsuki, <u>**Ryota Mitsuhashi**</u>, Shoji Yamamoto, and Norimichi Tsumura, Relationship analysis between sexual attractiveness and heartrate variability in observing portrait and self-introduction movie, Artificial Life and Robotics 25, pages116–123(2020). 
-- <u>**Ryota Mitsuhashi**</u>, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, Norimichi Tsumura, Dual-Band Infrared Video-Based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability, Journal of Imaging Science and Technology, Volume 62, Number 5, September 2018, pp. 50405-1-50405-7(7) DOI:10.2352/J.ImagingSci.Technol.2018.62.5.050405 (2018) 
-- Genki Okada, <u>**Ryota Mitsuhashi**</u>, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Noncontact heart rate measurement using a high-sensitivity camera in a low-light environment, Artificial Life and Robotics　March 2019, Volume 24, Issue 1, pp 6-11.
-- <u>**Ryota Mitsuhashi**</u>, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, Norimichi Tsumura, Noncontact pulse wave detection by two-band infrared video-based measurement on face without visible lighting, Artificial Life and Robotics (2018). https://doi.org/10.1007/s10015-018-0430-5.
+- Hirokazu Doi, Norimichi Tsumura, Chieko Kanai, Kenta Masui, **Ryota Mitsuhashi**,Takumi Nagasawa, Automatic classification of adult males with and without autism spectrum disorder by non-contact measurement of autonomic nervous system activation, Frontiers in Psychiatry (2021)17 May 2021 https://doi.org/10.3389/fpsyt.2021.625978
+- Kaito Iuchi, **Ryota Mitsuhashi**, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Stress levels estimation from facial video based on non-contact measurement of pulse wave, Artificial Life and Robotics 25, pages335–342(2020)
+- Kaito Iuchi, **Ryota Mitsuhashi**, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Removing the influence of light onto the face from display in iPPG, Artificial Life and Robotics 25, pages377–382(2020).
+- Ikisawa Natsuki, **Ryota Mitsuhashi**, Shoji Yamamoto, and Norimichi Tsumura, Relationship analysis between sexual attractiveness and heartrate variability in observing portrait and self-introduction movie, Artificial Life and Robotics 25, pages116–123(2020). 
+- **Ryota Mitsuhashi**, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, Norimichi Tsumura, Dual-Band Infrared Video-Based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability, Journal of Imaging Science and Technology, Volume 62, Number 5, September 2018, pp. 50405-1-50405-7(7) DOI:10.2352/J.ImagingSci.Technol.2018.62.5.050405 (2018) 
+- Genki Okada, **Ryota Mitsuhashi**, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Noncontact heart rate measurement using a high-sensitivity camera in a low-light environment, Artificial Life and Robotics　March 2019, Volume 24, Issue 1, pp 6-11.
+- **Ryota Mitsuhashi**, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, Norimichi Tsumura, Noncontact pulse wave detection by two-band infrared video-based measurement on face without visible lighting, Artificial Life and Robotics (2018). https://doi.org/10.1007/s10015-018-0430-5.
 
 ## 学会
-- 嗜好データセットを用いた応答文のアライメント - 日本語大規模言語モデルへの適用と安全性の評価 - (口頭発表, 査読なし), 言語処理学会第30回年次大会, <u>**三橋 亮太**</u>, 田中 稔之, 山田 健太郎, 神戸, 日本, 2024
+- 嗜好データセットを用いた応答文のアライメント - 日本語大規模言語モデルへの適用と安全性の評価 - (口頭発表, 査読なし), 言語処理学会第30回年次大会, **三橋 亮太**, 田中 稔之, 山田 健太郎, 神戸, 日本, 2024
 
-- Language-Based Risk Feedback System with Scene Recognition and Driver’s Gaze While Driving (口頭発表, 査読なし), <u>**Ryota Mitsuhashi**</u>, Tanaka Toshiyuki, Sakata Sachie, Yamada Kentaro, Yasui Yuji, SICE Annual Conference, Mie, Japan, 2023
+- Language-Based Risk Feedback System with Scene Recognition and Driver’s Gaze While Driving (口頭発表, 査読なし), **Ryota Mitsuhashi**, Tanaka Toshiyuki, Sakata Sachie, Yamada Kentaro, Yasui Yuji, SICE Annual Conference, Mie, Japan, 2023
 
-- Dual-band video-based measurement for noncontact pulse rate estimation in infrared, CIE 2018 Conference on Smart Lighting (oral, reviewed), <u>**Ryota Mitsuhashi**</u>, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Taipei, Taiwan, 2018
+- Dual-band video-based measurement for noncontact pulse rate estimation in infrared, CIE 2018 Conference on Smart Lighting (oral, reviewed), **Ryota Mitsuhashi**, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Taipei, Taiwan, 2018
 
-- Dual-Band Infrared Video-based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability (oral, reviewed), <u>**Ryota Mitsuhashi**</u>, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Twenty-sixth Color and Imaging Conference, Vancouver, BC, Canada, 2018
+- Dual-Band Infrared Video-based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability (oral, reviewed), **Ryota Mitsuhashi**, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Twenty-sixth Color and Imaging Conference, Vancouver, BC, Canada, 2018
 
-- Two-Band Infrared Video-based Measurement for Non-Contact Pulse Wave Detection on Face without Visible Lighting (oral, reviewed), <u>**Ryota Mitsuhashi**</u>, Genki Okada, Kouki Kurita, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Twenty-fifth Color and Imaging Conference, Lillehammer, Norway, 2017
+- Two-Band Infrared Video-based Measurement for Non-Contact Pulse Wave Detection on Face without Visible Lighting (oral, reviewed), **Ryota Mitsuhashi**, Genki Okada, Kouki Kurita, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Twenty-fifth Color and Imaging Conference, Lillehammer, Norway, 2017
 
 ---
 
-## Ryota Mitsuhashi
+# Ryota Mitsuhashi
 
 ## Work
 
@@ -128,19 +128,19 @@ layout: default
 
 ## Journal
 
-- Hirokazu Doi, Norimichi Tsumura, Chieko Kanai, Kenta Masui, <u>**Ryota Mitsuhashi**</u>,Takumi Nagasawa, Automatic classification of adult males with and without autism spectrum disorder by non-contact measurement of autonomic nervous system activation, Frontiers in Psychiatry (2021)17 May 2021 https://doi.org/10.3389/fpsyt.2021.625978
-- Kaito Iuchi, <u>**Ryota Mitsuhashi**</u>, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Stress levels estimation from facial video based on non-contact measurement of pulse wave, Artificial Life and Robotics 25, pages335–342(2020)
-- Kaito Iuchi, <u>**Ryota Mitsuhashi**</u>, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Removing the influence of light onto the face from display in iPPG, Artificial Life and Robotics 25, pages377–382(2020).
-- Ikisawa Natsuki, <u>**Ryota Mitsuhashi**</u>, Shoji Yamamoto, and Norimichi Tsumura, Relationship analysis between sexual attractiveness and heartrate variability in observing portrait and self-introduction movie, Artificial Life and Robotics 25, pages116–123(2020). 
-- <u>**Ryota Mitsuhashi**</u>, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, Norimichi Tsumura, Dual-Band Infrared Video-Based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability, Journal of Imaging Science and Technology, Volume 62, Number 5, September 2018, pp. 50405-1-50405-7(7) DOI:10.2352/J.ImagingSci.Technol.2018.62.5.050405 (2018) 
-- Genki Okada, <u>**Ryota Mitsuhashi**</u>, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Noncontact heart rate measurement using a high-sensitivity camera in a low-light environment, Artificial Life and Robotics　March 2019, Volume 24, Issue 1, pp 6-11.
-- <u>**Ryota Mitsuhashi**</u>, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, Norimichi Tsumura, Noncontact pulse wave detection by two-band infrared video-based measurement on face without visible lighting, Artificial Life and Robotics (2018). https://doi.org/10.1007/s10015-018-0430-5.
+- Hirokazu Doi, Norimichi Tsumura, Chieko Kanai, Kenta Masui, **Ryota Mitsuhashi**,Takumi Nagasawa, Automatic classification of adult males with and without autism spectrum disorder by non-contact measurement of autonomic nervous system activation, Frontiers in Psychiatry (2021)17 May 2021 https://doi.org/10.3389/fpsyt.2021.625978
+- Kaito Iuchi, **Ryota Mitsuhashi**, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Stress levels estimation from facial video based on non-contact measurement of pulse wave, Artificial Life and Robotics 25, pages335–342(2020)
+- Kaito Iuchi, **Ryota Mitsuhashi**, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Removing the influence of light onto the face from display in iPPG, Artificial Life and Robotics 25, pages377–382(2020).
+- Ikisawa Natsuki, **Ryota Mitsuhashi**, Shoji Yamamoto, and Norimichi Tsumura, Relationship analysis between sexual attractiveness and heartrate variability in observing portrait and self-introduction movie, Artificial Life and Robotics 25, pages116–123(2020). 
+- **Ryota Mitsuhashi**, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, Norimichi Tsumura, Dual-Band Infrared Video-Based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability, Journal of Imaging Science and Technology, Volume 62, Number 5, September 2018, pp. 50405-1-50405-7(7) DOI:10.2352/J.ImagingSci.Technol.2018.62.5.050405 (2018) 
+- Genki Okada, **Ryota Mitsuhashi**, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Noncontact heart rate measurement using a high-sensitivity camera in a low-light environment, Artificial Life and Robotics　March 2019, Volume 24, Issue 1, pp 6-11.
+- **Ryota Mitsuhashi**, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, Norimichi Tsumura, Noncontact pulse wave detection by two-band infrared video-based measurement on face without visible lighting, Artificial Life and Robotics (2018). https://doi.org/10.1007/s10015-018-0430-5.
 
 ## Conference
 
-- The impact of direct preference optimazation - A usecase of Japanese LLM and safety evaluation -, <u>**Ryota Mitsuhashi**</u>, Toshiyuki Tanaka, Kentaro Yamada, The 30th Natural Language Processing, Kobe, Japan, 2024
+- The impact of direct preference optimazation - A usecase of Japanese LLM and safety evaluation -, **Ryota Mitsuhashi**, Toshiyuki Tanaka, Kentaro Yamada, The 30th Natural Language Processing, Kobe, Japan, 2024
 
-- Language-Based Risk Feedback System with Scene Recognition and Driver’s Gaze While Driving (oral, without review), <u>**Ryota Mitsuhashi**</u>, Tanaka Toshiyuki, Sakata Sachie, Yamada Kentaro, Yasui Yuji, SICE Annual Conference, Mie, Japan, 2023
+- Language-Based Risk Feedback System with Scene Recognition and Driver’s Gaze While Driving (oral, without review), <u>**Ryota Mitsuhashi**, Tanaka Toshiyuki, Sakata Sachie, Yamada Kentaro, Yasui Yuji, SICE Annual Conference, Mie, Japan, 2023
 
 - Dual-band video-based measurement for noncontact pulse rate estimation in infrared, CIE 2018 Conference on Smart Lighting (oral, reviewed), <u>**Ryota Mitsuhashi**</u>, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Taipei, Taiwan, 2018
 
