@@ -52,7 +52,7 @@ layout: default
 - 自由対話のための日本語LLM用GUI
   - https://github.com/ohashi3399/llm_chat_demo_gui
 
-## ジャーナル
+## ジャーナル(英文, 査読あり)
 - Hirokazu Doi, Norimichi Tsumura, Chieko Kanai, Kenta Masui, **Ryota Mitsuhashi**,Takumi Nagasawa, Automatic classification of adult males with and without autism spectrum disorder by non-contact measurement of autonomic nervous system activation, Frontiers in Psychiatry (2021)17 May 2021 https://doi.org/10.3389/fpsyt.2021.625978
 - Kaito Iuchi, **Ryota Mitsuhashi**, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Stress levels estimation from facial video based on non-contact measurement of pulse wave, Artificial Life and Robotics 25, pages335–342(2020)
 - Kaito Iuchi, **Ryota Mitsuhashi**, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Removing the influence of light onto the face from display in iPPG, Artificial Life and Robotics 25, pages377–382(2020).
@@ -62,15 +62,15 @@ layout: default
 - **Ryota Mitsuhashi**, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, Norimichi Tsumura, Noncontact pulse wave detection by two-band infrared video-based measurement on face without visible lighting, Artificial Life and Robotics (2018). https://doi.org/10.1007/s10015-018-0430-5.
 
 ## 学会
-- 嗜好データセットを用いた応答文のアライメント - 日本語大規模言語モデルへの適用と安全性の評価 - (口頭発表, 査読なし), 言語処理学会第30回年次大会, **三橋 亮太**, 田中 稔之, 山田 健太郎, 神戸, 日本, 2024
+- **三橋 亮太**, 田中 稔之, 山田 健太郎, 嗜好データセットを用いた応答文のアライメント - 日本語大規模言語モデルへの適用と安全性の評価 - **(口頭発表, 査読なし, 日本語)**, 言語処理学会第30回年次大会, 神戸, 日本, 2024
 
-- Language-Based Risk Feedback System with Scene Recognition and Driver’s Gaze While Driving (口頭発表, 査読なし), **Ryota Mitsuhashi**, Tanaka Toshiyuki, Sakata Sachie, Yamada Kentaro, Yasui Yuji, SICE Annual Conference, Mie, Japan, 2023
+- **Ryota Mitsuhashi**, Tanaka Toshiyuki, Sakata Sachie, Yamada Kentaro, Yasui Yuji, Language-Based Risk Feedback System with Scene Recognition and Driver’s Gaze While Driving **(口頭発表, 査読なし, 英語)**, SICE Annual Conference, Mie, Japan, 2023
 
-- Dual-band video-based measurement for noncontact pulse rate estimation in infrared, CIE 2018 Conference on Smart Lighting (oral, reviewed), **Ryota Mitsuhashi**, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Taipei, Taiwan, 2018
+- **Ryota Mitsuhashi**, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Dual-band video-based measurement for noncontact pulse rate estimation in infrared, CIE 2018 Conference on Smart Lighting **(口頭発表, 査読あり, 英語)**, Taipei, Taiwan, 2018
 
-- Dual-Band Infrared Video-based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability (oral, reviewed), **Ryota Mitsuhashi**, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Twenty-sixth Color and Imaging Conference, Vancouver, BC, Canada, 2018
+- **Ryota Mitsuhashi**, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Dual-Band Infrared Video-based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability **(口頭発表, 査読あり, 英語)**, Twenty-sixth Color and Imaging Conference, Vancouver, BC, Canada, 2018
 
-- Two-Band Infrared Video-based Measurement for Non-Contact Pulse Wave Detection on Face without Visible Lighting (oral, reviewed), **Ryota Mitsuhashi**, Genki Okada, Kouki Kurita, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Twenty-fifth Color and Imaging Conference, Lillehammer, Norway, 2017
+- **Ryota Mitsuhashi**, Genki Okada, Kouki Kurita, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Two-Band Infrared Video-based Measurement for Non-Contact Pulse Wave Detection on Face without Visible Lighting **(口頭発表, 査読あり, 英語)**, Twenty-fifth Color and Imaging Conference, Lillehammer, Norway, 2017
 
 ---
 
@@ -126,7 +126,7 @@ layout: default
   - https://github.com/ohashi3399/llm_chat_demo_gui
 
 
-## Journal
+## Journal (reviewed)
 
 - Hirokazu Doi, Norimichi Tsumura, Chieko Kanai, Kenta Masui, **Ryota Mitsuhashi**,Takumi Nagasawa, Automatic classification of adult males with and without autism spectrum disorder by non-contact measurement of autonomic nervous system activation, Frontiers in Psychiatry (2021)17 May 2021 https://doi.org/10.3389/fpsyt.2021.625978
 - Kaito Iuchi, **Ryota Mitsuhashi**, Takashi Goto, Akira Matsubara, Takahiro Hirayama, Hideki Hashizume, and Norimichi Tsumura, Stress levels estimation from facial video based on non-contact measurement of pulse wave, Artificial Life and Robotics 25, pages335–342(2020)
@@ -138,12 +138,12 @@ layout: default
 
 ## Conference
 
-- The impact of direct preference optimazation - A usecase of Japanese LLM and safety evaluation -, **Ryota Mitsuhashi**, Toshiyuki Tanaka, Kentaro Yamada, The 30th Natural Language Processing, Kobe, Japan, 2024
+- **Ryota Mitsuhashi**, Toshiyuki Tanaka, Kentaro Yamada, The impact of direct preference optimazation - A usecase of Japanese LLM and safety evaluation - **(Oral, without-review, Japanese)**, The 30th Natural Language Processing, Kobe, Japan, 2024
 
-- Language-Based Risk Feedback System with Scene Recognition and Driver’s Gaze While Driving (oral, without review), <u>**Ryota Mitsuhashi**, Tanaka Toshiyuki, Sakata Sachie, Yamada Kentaro, Yasui Yuji, SICE Annual Conference, Mie, Japan, 2023
+- **Ryota Mitsuhashi**, Tanaka Toshiyuki, Sakata Sachie, Yamada Kentaro, Yasui Yuji, Language-Based Risk Feedback System with Scene Recognition and Driver’s Gaze While Driving **(oral, without-review, English)**, SICE Annual Conference, Mie, Japan, 2023
 
-- Dual-band video-based measurement for noncontact pulse rate estimation in infrared, CIE 2018 Conference on Smart Lighting (oral, reviewed), <u>**Ryota Mitsuhashi**</u>, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Taipei, Taiwan, 2018
+- **Ryota Mitsuhashi**, Genki Okada, Koki Kurita, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Dual-band video-based measurement for noncontact pulse rate estimation in infrared, CIE 2018 Conference on Smart Lighting **(oral, reviewed, English)**, , Taipei, Taiwan, 2018
 
-- Dual-Band Infrared Video-based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability (oral, reviewed), <u>**Ryota Mitsuhashi**</u>, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Twenty-sixth Color and Imaging Conference, Vancouver, BC, Canada, 2018
+- **Ryota Mitsuhashi**, Keiichiro Kagawa, Shoji Kawahito, Chawan Koopipat, and Norimichi Tsumura, Dual-Band Infrared Video-based Measurement Using Pulse Wave Maps to Analyze Heart Rate Variability **(oral, reviewed, English)**, Twenty-sixth Color and Imaging Conference, Vancouver, BC, Canada, 2018
 
-- Two-Band Infrared Video-based Measurement for Non-Contact Pulse Wave Detection on Face without Visible Lighting (oral, reviewed), <u>**Ryota Mitsuhashi**</u>, Genki Okada, Kouki Kurita, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Twenty-fifth Color and Imaging Conference, Lillehammer, Norway, 2017
+- **Ryota Mitsuhashi**, Genki Okada, Kouki Kurita, Keiichiro Kagawa, Shoji Kawahito, and Norimichi Tsumura, Two-Band Infrared Video-based Measurement for Non-Contact Pulse Wave Detection on Face without Visible Lighting **(oral, reviewed, English)**, Twenty-fifth Color and Imaging Conference, Lillehammer, Norway, 2017
