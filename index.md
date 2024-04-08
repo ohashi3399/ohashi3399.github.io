@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 三橋亮太
+# ohashi3399
 
 ## 職歴
 
