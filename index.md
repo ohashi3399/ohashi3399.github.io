@@ -34,6 +34,7 @@ layout: default
     - RLHF
     - DPO
     - 合成コーパス生成
+  - 対話行為分析
   - 音声合成
     - Style-Bert-VITS2-Ja-Extra
 
@@ -58,8 +59,9 @@ layout: default
 - 顔動画像からの生体信号の抽出と、自律神経系の変動と相関のある成分の推定に基づくストレスレベルの推定を研究
   - 色素成分分離: 肌モデルに基づく、主成分分析と独立成分分析を用いた画像の成分分析
   - 脈波抽出: Green-channel, PCA, ICA, temporal ICA, CHROM, BEV, SSR, LGI, 色素成分分離 + SSR
-  - 生体信号の傾き除去: detrend, savitzky-golay平滑化, バンドパスフィルター, パワースペクトル推定/分析
-  - RGB/IR両帯域に対応
+  - 生体信号の傾き除去: detrend, savitzky-golay平滑化
+  - 生体信号の周波数解析: バンドパスフィルター, パワースペクトル推定/分析, スペクトログラム分析
+  - RGBカメラ、IRカメラ、RGB/IRカメラそれぞれでの実装と評価
 
 ## 興味
 
