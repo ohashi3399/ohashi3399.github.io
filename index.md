@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# ohashi3399
+# 三橋亮太
 
 ## 職歴
 
-- 2021年6月 - 現在     : 株式会社本田技術研究所
+- 2021年6月 - 現在     : 株式会社本田技術研究所(研究員)
 - 2019年4月 - 2021年5月: 凸版印刷株式会社 (研究員)
 
 ## 学歴
@@ -17,31 +17,56 @@ layout: default
 
 ## 業務経歴
 
-### マルチモーダル運転支援
+### マルチモーダル運転支援(本田技研)
 
-- マルチモーダル運転支援の研究に従事
-- 周囲環境のリアルタイム物標認識によるシーン理解
-- ユーザーに受容される機能を持つリアルタイム音声対話機能
-- プロトタイプから実応用を目指すための実験設計
+- ユーザーに受容される機能を持つリアルタイム音声対話機能の研究に従事
+  - シーン理解
+    - YOLO
+    - DETR
+    - detic
+    - segment anything
+  - 視線検出・表情解析
+    - Tobii + ルールベース
+    - mediapipe + ルールベース
+  - 大規模言語モデル
+    - Zero-shot/Few-shot learning
+    - LoRA tuning
+    - RLHF
+    - DPO
+    - 合成コーパス生成
+  - 音声合成
+    - Style-Bert-VITS2-Ja-Extra
 
-### 光学文字認識と文法誤り訂正
+### 文法誤り訂正(凸版)
 
-- 光学文字認識と文法誤り訂正の研究に従事
-- 前者は中世ギリシア語や現代日本語、くずし字など歴史的文書の翻刻の支援のために開発
-- 後者は雑誌の人手による校正の負荷の軽減のために開発
+- 雑誌や参考書の人手による校正負荷の軽減のために開発
+  - Transformer
+  - BERT
+  - Copy-augmented Transformer
 
-### 顔面の動画像解析に基づく非接触脈波計測（学生時）
+### 光学文字認識(OCR)(凸版)
 
-- 千葉大学,千葉大学院にて、顔動画像からの生体信号の抽出と、自律神経系の変動と相関のある成分の推定に基づくストレスレベルの推定を研究
-- 3年間の研究を通して、光学モデルを用いた、主成分分析と独立成分分析に基づく画像の成分分解と、抽出した生体信号の周波数フィルタリング技術を取得
+- 手書きの歴史的文書の翻刻支援のために開発
+  - ※歴史的文書: くずし字、中世ギリシア語、デーヴァナーガリー、近代日本語
+  - CNN
+  - LSTM
+  - 半教師あり学習(VAT, Virtual Adversarial Training)
+  - アンサンブル学習
+
+### 顔面の動画像解析に基づく非接触脈波計測（千葉大）
+
+- 顔動画像からの生体信号の抽出と、自律神経系の変動と相関のある成分の推定に基づくストレスレベルの推定を研究
+  - 色素成分分離: 肌モデルに基づく、主成分分析と独立成分分析を用いた画像の成分分析
+  - 脈波抽出: Green-channel, PCA, ICA, temporal ICA, CHROM, BEV, SSR, LGI, 色素成分分離 + SSR
+  - 生体信号の傾き除去: detrend, savitzky-golay平滑化, バンドパスフィルター, パワースペクトル推定/分析
+  - RGB/IR両帯域に対応
 
 ## 興味
 
-- 小規模言語モデル (SLM)
-- 大規模言語モデル (LLM)
-- 画像言語モデル (VLM)
+- 1B級の言語モデルを用いたリアルタイム文章生成
+- 1B級の言語モデルを用いたリアルタイム画像処理
+- 10B級の言語モデルを用いた合成コーパス生成
 - リアルタイム音声対話
-- ヒューマンマシンインタラクション
 
 ## 公開物
 
@@ -50,6 +75,12 @@ layout: default
 
 - 自由対話のための日本語LLM用GUI
   - https://github.com/ohashi3399/llm_chat_demo_gui
+
+- 英日翻訳モデル bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
+  - https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
+
+- 英日翻訳モデル Tora_4B
+  - https://huggingface.co/ryota39/Tora_4B
 
 ## ジャーナル(英文, 査読あり)
 - Hirokazu Doi, Norimichi Tsumura, Chieko Kanai, Kenta Masui, **Ryota Mitsuhashi**,Takumi Nagasawa, Automatic classification of adult males with and without autism spectrum disorder by non-contact measurement of autonomic nervous system activation, Frontiers in Psychiatry (2021)17 May 2021 https://doi.org/10.3389/fpsyt.2021.625978
