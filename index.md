@@ -85,35 +85,35 @@ layout: default
 
 ### ソースコード
 1. - 日本語版Godspeedアンケート
-     - https://github.com/ohashi3399/godspeed_ja
+     - [https://github.com/ohashi3399/godspeed_ja](https://github.com/ohashi3399/godspeed_ja)
 
 2. - 自由対話のための日本語LLM用GUI
-     - https://github.com/ohashi3399/llm_chat_demo_gui
+     - [https://github.com/ohashi3399/llm_chat_demo_gui](https://github.com/ohashi3399/llm_chat_demo_gui)
 
 3. - 大規模言語モデルのRLHFで学習するためのサンプルコード POLM
-      - https://github.com/ohashi3399/POLM
+      - [https://github.com/ohashi3399/POLM](https://github.com/ohashi3399/POLM)
 
 ### 大規模言語モデル
 
 4. - 英日翻訳モデル bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
-     - https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
+    - [https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k](https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k)
 
 5. - 英日翻訳モデル Tora_4B
-     - https://huggingface.co/ryota39/Tora_4B
+     - [https://huggingface.co/ryota39/Tora_4B](https://huggingface.co/ryota39/Tora_4B)
 
 6. - 日本語大規模言語モデル Tora-7B-v0.1
-      - https://huggingface.co/ryota39/Tora-7B-v0.1
+      - [https://huggingface.co/ryota39/Tora-7B-v0.1](https://huggingface.co/ryota39/Tora-7B-v0.1)
 
 7. - 日本語小規模言語モデル Phi-3-mini-4k-instruct-dpo
-      - https://huggingface.co/ryota39/Phi-3-mini-4k-instruct-dpo
+      - [https://huggingface.co/ryota39/Phi-3-mini-4k-instruct-dpo](https://huggingface.co/ryota39/Phi-3-mini-4k-instruct-dpo)
 
 ### 大規模言語モデル用データセット
 
 8. - 大規模言語モデル学習用データセット dpo-ja-45k
-      - https://huggingface.co/datasets/ryota39/dpo-ja-45k
+      - [https://huggingface.co/datasets/ryota39/dpo-ja-45k](https://huggingface.co/datasets/ryota39/dpo-ja-45k)
 
 9. - 大規模言語モデル学習用データセット dpo-ja-194k
-      - https://huggingface.co/datasets/ryota39/dpo-ja-194k
+      - [https://huggingface.co/datasets/ryota39/dpo-ja-194k](https://huggingface.co/datasets/ryota39/dpo-ja-194k)
 
 
 ## ジャーナル(英文, 査読あり)
@@ -185,35 +185,35 @@ layout: default
 
 ### Source code
 1. - GodSpeed questionnaire web app
-     - https://github.com/ohashi3399/godspeed_ja
+     - [https://github.com/ohashi3399/godspeed_ja](https://github.com/ohashi3399/godspeed_ja)
 
 2. - Conversational GUI for japanese LLM
-     - https://github.com/ohashi3399/llm_chat_demo_gui
+     - [https://github.com/ohashi3399/llm_chat_demo_gui](https://github.com/ohashi3399/llm_chat_demo_gui)
 
 3. - DPO source code for japanese LLM, POLM
-      - https://github.com/ohashi3399/POLM
+      - [https://github.com/ohashi3399/POLM](https://github.com/ohashi3399/POLM)
 
 ### Large Language Model
 
 4. - En-Ja translation model bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
-     - https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
+     - [https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k](https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k)
 
 5. - En-Ja translation model Tora_4B
-     - https://huggingface.co/ryota39/Tora_4B
+     - [https://huggingface.co/ryota39/Tora_4B](https://huggingface.co/ryota39/Tora_4B)
 
 6. - Large language model for japanese Tora-7B-v0.1
-      - https://huggingface.co/ryota39/Tora-7B-v0.1
+      - [https://huggingface.co/ryota39/Tora-7B-v0.1](https://huggingface.co/ryota39/Tora-7B-v0.1)
 
 7. - Small language model for japanese Phi-3-mini-4k-instruct-dpo
-      - https://huggingface.co/ryota39/Phi-3-mini-4k-instruct-dpo
+      - [https://huggingface.co/ryota39/Phi-3-mini-4k-instruct-dpo](https://huggingface.co/ryota39/Phi-3-mini-4k-instruct-dpo)
 
 ### Dataset for Large Language Model
 
 8. - Japanese dataset for direct preference optimization dpo-ja-45k
-      - https://huggingface.co/datasets/ryota39/dpo-ja-45k
+      - [https://huggingface.co/datasets/ryota39/dpo-ja-45k](https://huggingface.co/datasets/ryota39/dpo-ja-45k)
 
 9. - Japanese dataset for direct preference optimization dpo-ja-194k
-      - https://huggingface.co/datasets/ryota39/dpo-ja-194k
+      - [https://huggingface.co/datasets/ryota39/dpo-ja-194k](https://huggingface.co/datasets/ryota39/dpo-ja-194k)
 
 ## Journal (reviewed)
 
