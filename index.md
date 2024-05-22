@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# ohashi3399
+# 三橋 亮太(ohashi3399)
 
 ## 職歴
 
-- 2021年6月 - 現在     : 株式会社本田技術研究所(研究員)
+- 2021年6月 - 現在     : 株式会社本田技術研究所(研究開発エンジニア)
 - 2019年4月 - 2021年5月: 凸版印刷株式会社 (研究員)
 
 ## 学歴
@@ -17,42 +17,52 @@ layout: default
 
 ## 業務経歴
 
-### マルチモーダル運転支援(本田技研)
+### マルチモーダル運転支援 (株式会社本田技術研究所)
 
-- ユーザーに受容される機能を持つリアルタイム音声対話機能の研究に従事
-  - シーン理解
-    - YOLO
-    - DETR
-    - detic
-    - segment anything
-  - 視線検出・表情解析
-    - Tobii + ルールベース
-    - mediapipe + ルールベース
-  - 大規模言語モデル
-    - Zero-shot/Few-shot learning
-    - LoRA tuning
-    - RLHF
-    - DPO
-    - 合成コーパス生成
-  - 対話行為分析
-  - 音声合成
-    - Style-Bert-VITS2-Ja-Extra
+- リアルタイム音声対話機能の研究開発に従事
+  - 業務への利用可否の判断のために使用した技術
+  - 画像処理
+    - シーン理解
+      - YOLO
+      - DETR
+      - GRIT
+      - detic
+      - segment anything
+  - 生体信号処理
+    - 視線滞留時間の計測 (Tobii + 後段処理を実装)
+    - 事故リスクの見落とし検知 (Tobii + 後段処理を実装)
+    - 瞬き検知 (mediapipe + 後段処理を実装)
+    - 会話検知 (mediapipe + 後段処理を実装)
+    - 不快表情の検知 (mediapipe + 後段処理を実装)
+  - 自然言語処理
+    - 事後学習
+      - Zero-shot/Few-shot learning
+      - fine tuning
+      - LoRA tuning
+      - RLHF
+      - DPO
+    - 対話行為分析
+  - 音声信号処理
+    - 音声合成
+      - Style-Bert-VITS2-Ja-Extra
 
-### 文法誤り訂正(凸版)
+### 文法誤り訂正 (凸版印刷株式会社)
 
-- 雑誌や参考書の人手による校正負荷の軽減のために開発
-  - Transformer
-  - BERT
-  - Copy-augmented Transformer
+- 雑誌や参考書の人手による校正負荷の軽減のための、文章の自動校正技術の開発
+  - プロトタイプ検証のために実装した技術
+    - Transformer
+    - BERT
+    - Copy-augmented Transformer
 
 ### 光学文字認識(OCR)(凸版)
 
-- 手書きの歴史的文書の翻刻支援のために開発
+- 読み手がほとんどいない、手書きの歴史的文書の翻刻支援のための自動手書き文字認識システムの開発
   - ※歴史的文書: くずし字、中世ギリシア語、デーヴァナーガリー、近代日本語
-  - CNN
-  - LSTM
-  - 半教師あり学習(VAT, Virtual Adversarial Training)
-  - アンサンブル学習
+  - プロトタイプ検証のために実装した技術
+    - CNN
+    - LSTM
+    - 半教師あり学習(VAT, Virtual Adversarial Training)
+    - アンサンブル学習
 
 ### 顔面の動画像解析に基づく非接触脈波計測（千葉大）
 
@@ -66,23 +76,45 @@ layout: default
 ## 興味
 
 - 1B級の言語モデルを用いたリアルタイム文章生成
-- 1B級の言語モデルを用いたリアルタイム画像処理
+- 1B級の画像言語モデルを用いたリアルタイム画像処理
 - 10B級の言語モデルを用いた合成コーパス生成
 - リアルタイム音声対話
 
+
 ## 公開物
 
-- 日本語版Godspeedアンケート
-  - https://github.com/ohashi3399/godspeed_ja
+### ソースコード
+1. - 日本語版Godspeedアンケート
+     - https://github.com/ohashi3399/godspeed_ja
 
-- 自由対話のための日本語LLM用GUI
-  - https://github.com/ohashi3399/llm_chat_demo_gui
+2. - 自由対話のための日本語LLM用GUI
+     - https://github.com/ohashi3399/llm_chat_demo_gui
 
-- 英日翻訳モデル bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
-  - https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
+3. - 大規模言語モデルのRLHFで学習するためのサンプルコード POLM
+      - https://github.com/ohashi3399/POLM
 
-- 英日翻訳モデル Tora_4B
-  - https://huggingface.co/ryota39/Tora_4B
+### 大規模言語モデル
+
+4. - 英日翻訳モデル bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
+     - https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
+
+5. - 英日翻訳モデル Tora_4B
+     - https://huggingface.co/ryota39/Tora_4B
+
+6. - 日本語大規模言語モデル Tora-7B-v0.1
+      - https://huggingface.co/ryota39/Tora-7B-v0.1
+
+7. - 日本語小規模言語モデル Phi-3-mini-4k-instruct-dpo
+      - https://huggingface.co/ryota39/Phi-3-mini-4k-instruct-dpo
+
+### 大規模言語モデル用データセット
+
+8. - 大規模言語モデル学習用データセット dpo-ja-45k
+      - https://huggingface.co/datasets/ryota39/dpo-ja-45k
+
+9. - 大規模言語モデル学習用データセット dpo-ja-194k
+      - https://huggingface.co/datasets/ryota39/dpo-ja-194k
+
 
 ## ジャーナル(英文, 査読あり)
 - Hirokazu Doi, Norimichi Tsumura, Chieko Kanai, Kenta Masui, **Ryota Mitsuhashi**,Takumi Nagasawa, Automatic classification of adult males with and without autism spectrum disorder by non-contact measurement of autonomic nervous system activation, Frontiers in Psychiatry (2021)17 May 2021 https://doi.org/10.3389/fpsyt.2021.625978
@@ -106,7 +138,7 @@ layout: default
 
 ---
 
-# ohashi3399
+# Ryota Mitsuhashi (ohashi3399)
 
 ## Work
 
@@ -149,14 +181,39 @@ layout: default
 - Voice dialogue in real time
 - Human-machine interaction
 
-## Contents
+## Public contents
 
-- godspeed_ja, Web app of godspeed questionnaire
-  - https://github.com/ohashi3399/godspeed_ja
+### Source code
+1. - GodSpeed questionnaire web app
+     - https://github.com/ohashi3399/godspeed_ja
 
-- llm_chat_demo_gui, Web app of llm demo GUI
-  - https://github.com/ohashi3399/llm_chat_demo_gui
+2. - Conversational GUI for japanese LLM
+     - https://github.com/ohashi3399/llm_chat_demo_gui
 
+3. - DPO source code for japanese LLM, POLM
+      - https://github.com/ohashi3399/POLM
+
+### Large Language Model
+
+4. - En-Ja translation model bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
+     - https://huggingface.co/ryota39/bilingual-gpt-neox-4b-instruction-sft-en-ja-84k
+
+5. - En-Ja translation model Tora_4B
+     - https://huggingface.co/ryota39/Tora_4B
+
+6. - Large language model for japanese Tora-7B-v0.1
+      - https://huggingface.co/ryota39/Tora-7B-v0.1
+
+7. - Small language model for japanese Phi-3-mini-4k-instruct-dpo
+      - https://huggingface.co/ryota39/Phi-3-mini-4k-instruct-dpo
+
+### Dataset for Large Language Model
+
+8. - Japanese dataset for direct preference optimization dpo-ja-45k
+      - https://huggingface.co/datasets/ryota39/dpo-ja-45k
+
+9. - Japanese dataset for direct preference optimization dpo-ja-194k
+      - https://huggingface.co/datasets/ryota39/dpo-ja-194k
 
 ## Journal (reviewed)
 
@@ -170,7 +227,7 @@ layout: default
 
 ## Conference
 
-- **Ryota Mitsuhashi**, Toshiyuki Tanaka, Kentaro Yamada, The impact of direct preference optimazation - A usecase of Japanese LLM and safety evaluation - **(Oral, without-review, Japanese)**, The 30th Natural Language Processing, Kobe, Japan, 2024
+- **Ryota Mitsuhashi**, Toshiyuki Tanaka, Kentaro Yamada, The impact of direct preference optimization - A usecase of Japanese LLM and safety evaluation - **(Oral, without-review, Japanese)**, The 30th Natural Language Processing, Kobe, Japan, 2024
 
 - **Ryota Mitsuhashi**, Tanaka Toshiyuki, Sakata Sachie, Yamada Kentaro, Yasui Yuji, Language-Based Risk Feedback System with Scene Recognition and Driver’s Gaze While Driving **(oral, without-review, English)**, SICE Annual Conference, Mie, Japan, 2023
 
