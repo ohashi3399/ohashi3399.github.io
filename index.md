@@ -15,85 +15,6 @@ layout: default
 - 2015年4月 - 2017年3月: 学士卒業, 工学部, 情報画像学科, 千葉大学
 - 2010年4月 - 2015年3月: 準学士卒業, 茨城工業高等専門学校
 
-## 職務経歴
-
-- 一覧
-
-|No.|プロジェクト名|所属会社|期間|目的|役割|
-|:---|:---|:---|:---|:---|:---|
-|3|マルチモーダル運転支援|本田技術研究所|2021年6月〜現在|運転事故を減らすための、理解しやすい、対話型運転支援システムの研究開発|主担当(計画、調査、実装、実車組込、テスト、報告、改善、他雑務全般)|
-|2|書籍の自動校正システム|凸版印刷|2020年1月〜2021年4月|書籍の誤字脱字の人手作業の削減のための、文章の自動校正システムの研究開発|主担当(調査、実装、評価)|
-|1|希少言語の手書き文字認識システム|凸版印刷|2019年10月〜2021年4月|読み手の負担を削減するための、自動手書き文字認識システムの研究開発|精度改善、メモリ削減|
-
-
-### マルチモーダル運転支援 
-
-- 株式会社本田技術研究所
-- リアルタイム音声対話機能の研究開発に従事
-  - 業務への利用可否の判断のために使用した技術
-  - 画像処理
-    - シーン理解
-      - YOLO
-      - DETR
-      - GRIT
-      - detic
-      - segment anything
-  - 生体信号処理
-    - 視線滞留時間の計測 (Tobii + 後段処理を実装)
-    - 事故リスクの見落とし検知 (Tobii + 後段処理を実装)
-    - 瞬き検知 (mediapipe + 後段処理を実装)
-    - 会話検知 (mediapipe + 後段処理を実装)
-    - 不快表情の検知 (mediapipe + 後段処理を実装)
-  - 自然言語処理
-    - 事後学習
-      - Zero-shot/Few-shot learning
-      - fine tuning
-      - LoRA tuning
-      - RLHF
-      - DPO
-    - 対話行為分析
-  - 音声信号処理
-    - 音声合成
-      - Style-Bert-VITS2-Ja-Extra
-
-### 書籍の自動校正システム
-
-- 凸版印刷株式会社
-- 雑誌や参考書の人手による校正負荷の軽減のための、文章の自動校正技術の開発
-  - プロトタイプ検証のために実装した技術
-    - Transformer
-    - BERT
-    - Copy-augmented Transformer
-
-### 希少言語の手書き文字認識システム
-
-- 凸版印刷株式会社
-- 読み手がほとんどいない、手書きの歴史的文書の翻刻支援のための自動手書き文字認識システムの開発
-  - ※歴史的文書: くずし字、中世ギリシア語、デーヴァナーガリー、近代日本語
-  - プロトタイプ検証のために実装した技術
-    - CNN
-    - LSTM
-    - 半教師あり学習(VAT, Virtual Adversarial Training)
-    - アンサンブル学習
-
-### 顔面の動画像解析に基づく非接触脈波計測
-
-- 千葉大学在籍時の研究
-- 顔動画像からの生体信号の抽出と、自律神経系の変動と相関のある成分の推定に基づくストレスレベルの推定を研究
-  - 色素成分分離: 肌モデルに基づく、主成分分析と独立成分分析を用いた画像の成分分析
-  - 脈波抽出: Green-channel, PCA, ICA, temporal ICA, CHROM, BEV, SSR, LGI, 色素成分分離 + SSR
-  - 生体信号の傾き除去: detrend, savitzky-golay平滑化
-  - 生体信号の周波数解析: バンドパスフィルター, パワースペクトル推定/分析, スペクトログラム分析
-  - RGBカメラ、IRカメラ、RGB/IRカメラそれぞれでの実装と評価
-
-## 興味
-
-- 1B級の言語モデルを用いたリアルタイム文章生成
-- 1B級の画像言語モデルを用いたリアルタイム画像処理
-- 10B級の言語モデルを用いた合成コーパス生成
-- リアルタイム音声対話
-
-
 ## 公開物
 
 ### ソースコード
@@ -127,6 +48,23 @@ layout: default
 
 9. - 大規模言語モデル学習用データセット dpo-ja-194k
       - [https://huggingface.co/datasets/ryota39/dpo-ja-194k](https://huggingface.co/datasets/ryota39/dpo-ja-194k)
+
+
+### アカウント
+
+- huggingface
+  - [https://huggingface.co/ryota39](https://huggingface.co/ryota39)
+
+- github
+  - [https://github.com/ohashi3399](https://github.com/ohashi3399)
+
+
+## 興味
+
+- 1B級の言語モデルを用いたリアルタイム文章生成
+- 1B級の画像言語モデルを用いたリアルタイム画像処理
+- 10B級の言語モデルを用いた合成コーパス生成
+- リアルタイム音声対話
 
 
 ## ジャーナル(英文, 査読あり)
@@ -164,36 +102,6 @@ layout: default
 - Apr. 2015 - Mar. 2017: B. Eng., Department of Engineering, Imaging and Informatics, Chiba University
 - Apr. 2010 - Mar. 2015: Associate Degree, National Institute of Technology, Ibaraki College
 
-## Experience
-
-### Multi-modal driver assistant
-
-- Through Honda R&D., I am dedicating a research of **Multi-modal Agent**.
-- Visual scene understanding is needed for monitoring surrounding situations in real-time.
-- Voice dialogue is needed through interactions to users for accepting the agent in real-time.
-- Experimental design is needed to deploy a prototype into real-world applications.
-- I am in middle of getting the above skills!
-
-### Optical character recognition & Grammatical error correction
-
-- Throught Toppan printing Inc., I dedicated to research the topics of **OCR (Optical Character Recognition) and GEC (Grammatical Error Correction).**
-- The former aims to support a transcription of historical documents such like ancient Greek, and Kujishi-ji.
-- The latter aims to reduce a physical burdens of manual proofreading in magazines.
-- Through 2 and half years, I got fundamental skills of machine learning-based research including survey, model design and implementation, training strategy, memory saving coding, error analysis, technical reports, suggestion of new research topic, and patents.
-
-### Video-based Photoplethysmography for estimating stress levels
-
-- Through Master and Bachelor cources in Chiba university, I studied a topic of **physiological signal such as extraction of pulse wave from facial video recordings**, and **the estimation of stress levels** arise from the changes of autonomic nerves activity estimated from facial videos.
-- Through 3 years, I got basic skills based on optical-based (i.e. layered skin model) image decomposition like PCA, ICA, and temporal-frequency domain signal filterings for acquiring autonomic nerves activity.
-
-## Interests
-
-- Small language model (SLM)
-- Large language model (LLM)
-- Visual language model (VLM)
-- Voice dialogue in real time
-- Human-machine interaction
-
 ## Public contents
 
 ### Source code
@@ -227,6 +135,15 @@ layout: default
 
 9. - Japanese dataset for direct preference optimization dpo-ja-194k
       - [https://huggingface.co/datasets/ryota39/dpo-ja-194k](https://huggingface.co/datasets/ryota39/dpo-ja-194k)
+
+
+## Interests
+
+- Small language model (SLM)
+- Large language model (LLM)
+- Visual language model (VLM)
+- Voice dialogue in real time
+- Human-machine interaction
 
 ## Journal (reviewed)
 
